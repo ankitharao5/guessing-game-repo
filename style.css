@@ -1,0 +1,43 @@
+div{
+
+    background-color:  #2F3C7E;
+    color:  #FBEAEB;
+    height: 500px;
+    width: 700px;
+    border-radius: 20px;
+    position: relative;
+    top: 30px;
+}
+h1{
+    padding-top: 40px;
+}
+input{
+    width: 400px;
+    height: 50px;
+    font-size: 30px;
+    border-radius: 15px ;
+    color:  #2F3C7E;
+    text-align: center;
+
+}
+
+button{
+    width: 80px;
+    height: 50px;
+    background-color: #FBEAEB;
+    font-size: 20px;
+    border-radius: 10px;
+    color:  #2F3C7E;
+    text-align: center;
+    border: solid 2px #FBEAEB;
+}
+button:hover{
+    scale: 0.8;
+}
+p{
+    color: rgb(235, 201, 231);
+    font-size: 20px;
+}
+body{
+    background-color:  #FBEAEB;
+}
